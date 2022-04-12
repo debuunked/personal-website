@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/10/best-background-for-website-03.jpg");
+    background-image: url("https://wallpaperaccess.com/full/2029165.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,4 +58,7 @@ td{
 .info{
     position: relative;
     left: 250%;
+}
+.Warning{
+    color: red;
 }
