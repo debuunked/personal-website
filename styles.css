@@ -1,15 +1,49 @@
 
 body{
-    background-color: powderblue;
+    background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/10/best-background-for-website-03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 hr{
-    border-color: grey;
+    border-color: green;
     border-width: 5px;
-    width: 30px;
+    width: 100%;
     border-style: dotted none none;
 }
-img{
-    height: 200px;
+h1{
+    color:aquamarine;
+}
+p{
+    color: aquamarine;
+}
+em{
+    color: aquamarine;
+}
+.pfp{
     width: 200px;
+    height: 200px;
+}
+h1:hover{
+    color: orange;
+}
+h3{
+    color:#66BFBF;
+}
+li{
+    color: antiquewhite;
+}
+a{
+    color:blueviolet;
+}
+a:hover{
+    color: blanchedalmond;
+}
+td{
+    color:beige;
+}
+.contact{
+    color: aliceblue;
 }
