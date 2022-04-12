@@ -4,5 +4,5 @@ const info = document.querySelector('.info')
 
 
 contact.addEventListener('click', function(){
-    window.open("../Contact/contact.html")
+    window.open("contact.html")
 });
